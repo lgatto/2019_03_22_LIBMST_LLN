@@ -6,3 +6,6 @@ some of the underlying software that support these analyses.
 
 
 Talk at the [LIBMST](https://uclouvain.be/en/research-institutes/libst/).
+
+- 22 March 2019
+- at 12h50, duration 40 minutes
